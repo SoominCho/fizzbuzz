@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12) # version can be different
 
-project(FizzBuuzz_project) #name of your project
+project(FizzBuzz_project) #name of your project
 
 enable_testing() #to discover tests in test explorer 
 
